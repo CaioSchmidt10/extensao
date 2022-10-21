@@ -1,0 +1,29 @@
+#principal{
+    border: 1px red solid;
+    background-color: blue;
+    padding: 10px;
+    height: 600px;
+}
+
+.float{
+    float: right;
+    background-color: red;
+    width: 150px;
+    height: 100px;
+}
+
+.clear{
+    clear: both;
+}
+
+.background1{
+    background: blue;
+    width: 200px;
+    height:500px;
+}
+
+.position1{
+    position: relative;
+    top: 0px;
+    left: 80px;
+}
